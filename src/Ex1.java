@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class Exercise1 {
+public class Ex1 {
     public static void main(String[] args) {
         Set<Integer> set = new HashSet<Integer>();
         set.add(1);
